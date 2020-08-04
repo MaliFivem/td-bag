@@ -67,26 +67,3 @@ else
 	TriggerEvent('mythic_notify:client:SendAlert', { type = 'error', text = 'Çantan yok!' } )
 end
 end)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
